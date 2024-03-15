@@ -7,7 +7,8 @@ O Site terá:
 - 1 Página dos Produtos;
 - 1 Página para tirar dúvidas (FAQ);
 - 1 Página para entrar em contato com o chaveiro.
-- Imagens das chaves
+- Imagens das chaves;
+- Estilização em CSS.
 ## Referências
 - [HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
 - [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
